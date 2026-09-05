@@ -1,4 +1,4 @@
-## Hi there 👋
+## EE portfolio
 
 <!--
 **m4v1n22/m4v1n22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
