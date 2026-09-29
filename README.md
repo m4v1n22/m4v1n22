@@ -3,7 +3,7 @@
 ## Embedded DC Motor Speed Controller (AVR C, PID, PWM)
 Closed-loop PID speed controller for a geared DC motor on an ATmega328P.
 
-- [Project report (PDF)](Motor%20Controller%20Project%20Report.pdf)
+- [Project report (PDF)](Motor%20Controller%20Project%20Report%(1).pdf)
 - [Code](https://github.com/m4v1n22/m4v1n22/blob/main/motor_controller.cpp)
 - [Demo Video](https://youtu.be/LDbsgWGj3lg)
 - [Motor Controller Schematic (PDF)](motor_controller_schematic_draft.pdf)
